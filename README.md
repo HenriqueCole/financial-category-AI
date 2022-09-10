@@ -17,5 +17,4 @@ pip install -r requirements.txt
 
 - [Python](https://www.python.org/)
 - [Pandas](https://pandas.pydata.org/)
-- [Matplotlib](https://matplotlib.org/)
 - [Google Colab](https://colab.research.google.com/)

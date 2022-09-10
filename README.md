@@ -1,6 +1,6 @@
 # Artificial Intelligence - Python
 
-Ppload an articles and it will return a category that closest matches each article.
+Upload an articles and it will return a category that closest matches each article.
 It also show an indication of how confident the AI is about its category choice will also be returned back.
 
 ## Installation
